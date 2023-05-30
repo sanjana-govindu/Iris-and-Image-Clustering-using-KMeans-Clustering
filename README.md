@@ -1,4 +1,4 @@
-# Iris-and-Image-Clustering-using-KMeans-Clustering
+# Iris and Image Clustering using K Means Clustering
 
 **PART 1 - IRIS CLUSTERING**
 
